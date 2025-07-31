@@ -18,7 +18,10 @@ public class ControladorInmuebles {
 
     }
 
-    public void borrarInmuebleID(int idbusqueda){
+    public void borrarInmuebleID(int idborrar){
 
+    }
+    public void buscarInmuebleID(int idbusqueda){
+        
     }
 }
