@@ -52,7 +52,20 @@ public class VistaInmuebles {
                 idbusqueda=scanner.nextInt();
                 controlador.buscarInmuebleID(idbusqueda);
                 break;
+            case 6:
+                System.out.println("Cargando Datos......");
+                break;
+            case 7:
+                System.out.println("Recuperando Datos...");
+                break;
+            case 8:
+                System.out.println("--- Inmuebles en Archivo Externo ---");
+                break;
+            case 0:
+                System.out.println("Saliendo del Sistema....");
+                break;
             default:
+                System.out.println("Error, Seleccione una opcion valida!!!");
                 break;
         }
     }
