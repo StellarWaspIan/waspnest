@@ -1,4 +1,4 @@
-package java.unidad1.sistemainmuebles;
+package j4va.sistemainmuebles;
 
 abstract public class Inmueble {
     int id;

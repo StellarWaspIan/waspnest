@@ -1,4 +1,4 @@
-package java.unidad1.sistemainmuebles;
+package j4va.sistemainmuebles;
 
 public class Casa extends Inmueble {
 

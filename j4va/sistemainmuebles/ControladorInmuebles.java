@@ -1,4 +1,4 @@
-package java.unidad1.sistemainmuebles;
+package j4va.sistemainmuebles;
 
 public class ControladorInmuebles {
     public void crearInmueble(int opinmueble){

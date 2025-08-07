@@ -1,9 +1,7 @@
-package java.unidad1.sistemainmuebles;
+package j4va.sistemainmuebles;
 
 public class GestorInmuebles {
-    public void crearInmueble(){
-        Inmueble inmueble = new Inmueble() {
-        }; 
+    public void crearInmueble(){ 
     }
 
     public void borrarInmueble(int id){
